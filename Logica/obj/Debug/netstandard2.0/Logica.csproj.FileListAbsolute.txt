@@ -1,0 +1,9 @@
+C:\Users\emarzioni.VIMARX\Desktop\Parcial prog\parcial-prog-2\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+C:\Users\emarzioni.VIMARX\Desktop\Parcial prog\parcial-prog-2\Logica\bin\Debug\netstandard2.0\Logica.dll
+C:\Users\emarzioni.VIMARX\Desktop\Parcial prog\parcial-prog-2\Logica\bin\Debug\netstandard2.0\Logica.pdb
+C:\Users\emarzioni.VIMARX\Desktop\Parcial prog\parcial-prog-2\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+C:\Users\emarzioni.VIMARX\Desktop\Parcial prog\parcial-prog-2\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+C:\Users\emarzioni.VIMARX\Desktop\Parcial prog\parcial-prog-2\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+C:\Users\emarzioni.VIMARX\Desktop\Parcial prog\parcial-prog-2\Logica\obj\Debug\netstandard2.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\emarzioni.VIMARX\Desktop\Parcial prog\parcial-prog-2\Logica\obj\Debug\netstandard2.0\Logica.dll
+C:\Users\emarzioni.VIMARX\Desktop\Parcial prog\parcial-prog-2\Logica\obj\Debug\netstandard2.0\Logica.pdb

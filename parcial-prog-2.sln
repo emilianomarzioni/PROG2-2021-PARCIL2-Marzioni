@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{8AC6BE16-F7A7-4CA5-8DD5-ECBF8768158D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi.Tests", "WebApi.Tests\WebApi.Tests.csproj", "{AEE7C4C8-B7D4-4862-8E1D-7F707CCEE833}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{7F37E330-9BA0-4421-892B-DF715DBF0BCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AC6BE16-F7A7-4CA5-8DD5-ECBF8768158D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AC6BE16-F7A7-4CA5-8DD5-ECBF8768158D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AC6BE16-F7A7-4CA5-8DD5-ECBF8768158D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AC6BE16-F7A7-4CA5-8DD5-ECBF8768158D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEE7C4C8-B7D4-4862-8E1D-7F707CCEE833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE7C4C8-B7D4-4862-8E1D-7F707CCEE833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE7C4C8-B7D4-4862-8E1D-7F707CCEE833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE7C4C8-B7D4-4862-8E1D-7F707CCEE833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F37E330-9BA0-4421-892B-DF715DBF0BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F37E330-9BA0-4421-892B-DF715DBF0BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F37E330-9BA0-4421-892B-DF715DBF0BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F37E330-9BA0-4421-892B-DF715DBF0BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D75AFFD8-F0E2-429B-AFD8-CF4481182658}
+	EndGlobalSection
+EndGlobal
