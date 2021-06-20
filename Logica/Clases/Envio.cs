@@ -17,11 +17,13 @@ namespace Logica.Clases
         public Envio(int dni, string fechaEstimadaDeEntrega, string descripcion)
         {
             this.Estado = EstadoEnvio.Pendiente;
-            this.ID = Empresa.GenerarID();
+            this.ID = Empresa.GenerarID(); //PODRIA SER UN METODO DE ESTA CLASE Y NO DE OTRA
             this.DestinatarioDNI = dni;
+            //USAR TIPO DE DATOS DATETIME EN ESTOS CASOS
             this.FechaEstimadaDeEntrega = DateTime.ParseExact(fechaEstimadaDeEntrega,"dd/MM/yyyy",CultureInfo.InvariantCulture);
         }
 
+        //RECIBIR EL ENUMERADOR COMO PARAMETRO DIRECTAMENTE
         public EstadoEnvio? ModificarEstado(string newEstado)
         {
 

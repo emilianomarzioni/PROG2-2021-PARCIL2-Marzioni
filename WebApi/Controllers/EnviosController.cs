@@ -25,10 +25,7 @@ namespace WebApi.Controllers
                 return Content(HttpStatusCode.Created, result.ID);
             }
             return Content(HttpStatusCode.BadRequest, result);
-
-
-
-           
+                                          
         }
         
         public IHttpActionResult Put([FromBody] ActualizarEnvioRequest request,string idEnvio)
@@ -78,7 +75,8 @@ namespace WebApi.Controllers
                 return Content(HttpStatusCode.BadRequest, "No se encontro un repartidor");
             }
             envio.RepartidorDNI = rep.Dni;
-            Result result = empresa.ActualizarEnvio(envio);
+            Result result = empresa.ActualizarEnvio(envio); //ESTE METODO TENDRIA UQE TENER LA LOGICA DE ASIGNAR REPARTIDOR INTERNAMENTE.
+            //DE OTRO MODO, SI NO USO EL METODO DE ARRIBA, LO RESUELVE MAL.
             return Content(HttpStatusCode.OK, rep);
         }
     }

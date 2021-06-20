@@ -7,3 +7,12 @@ C:\Users\emarzioni.VIMARX\Desktop\Parcial prog\parcial-prog-2\Logica\obj\Debug\n
 C:\Users\emarzioni.VIMARX\Desktop\Parcial prog\parcial-prog-2\Logica\obj\Debug\netstandard2.0\Logica.csproj.CoreCompileInputs.cache
 C:\Users\emarzioni.VIMARX\Desktop\Parcial prog\parcial-prog-2\Logica\obj\Debug\netstandard2.0\Logica.dll
 C:\Users\emarzioni.VIMARX\Desktop\Parcial prog\parcial-prog-2\Logica\obj\Debug\netstandard2.0\Logica.pdb
+E:\REPOSITORIOS\ucse\prog2\2021\parcial2\marzioni\PROG2-2021-PARCIL2-Marzioni\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+E:\REPOSITORIOS\ucse\prog2\2021\parcial2\marzioni\PROG2-2021-PARCIL2-Marzioni\Logica\bin\Debug\netstandard2.0\Logica.dll
+E:\REPOSITORIOS\ucse\prog2\2021\parcial2\marzioni\PROG2-2021-PARCIL2-Marzioni\Logica\bin\Debug\netstandard2.0\Logica.pdb
+E:\REPOSITORIOS\ucse\prog2\2021\parcial2\marzioni\PROG2-2021-PARCIL2-Marzioni\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+E:\REPOSITORIOS\ucse\prog2\2021\parcial2\marzioni\PROG2-2021-PARCIL2-Marzioni\Logica\obj\Debug\netstandard2.0\Logica.csproj.CoreCompileInputs.cache
+E:\REPOSITORIOS\ucse\prog2\2021\parcial2\marzioni\PROG2-2021-PARCIL2-Marzioni\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+E:\REPOSITORIOS\ucse\prog2\2021\parcial2\marzioni\PROG2-2021-PARCIL2-Marzioni\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+E:\REPOSITORIOS\ucse\prog2\2021\parcial2\marzioni\PROG2-2021-PARCIL2-Marzioni\Logica\obj\Debug\netstandard2.0\Logica.dll
+E:\REPOSITORIOS\ucse\prog2\2021\parcial2\marzioni\PROG2-2021-PARCIL2-Marzioni\Logica\obj\Debug\netstandard2.0\Logica.pdb

@@ -54,7 +54,7 @@ namespace Logica
             var item = Envios.Find(x => x.ID == envio.ID);
             Envios.Remove(item);
             Envios.Add(envio);
-           
+           //FALTA LA LOGICA DEL ESTADO ENTREGADO
             return new Result(true);
         }
 
@@ -97,6 +97,8 @@ namespace Logica
         {
             return Repartidores.FirstOrDefault(x => x.Dni == dni);
         }
+
+        //PODRIAN SER OBJETOS PERSONA
         public double CalcularDistancia(Repartidor point1, Destinatario point2)
         {
             double distance = 0;
